@@ -1,0 +1,2 @@
+All DevOps engineeers are SRE but all S[1;2QRE are not devops engineer
+
